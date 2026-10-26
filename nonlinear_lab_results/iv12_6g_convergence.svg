@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="620" viewBox="0 0 1050 620">
+<rect width="100%" height="100%" fill="white"/>
+<text x="525.0" y="30" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="20" fill="#19324a">Сходимость методов: IV.12.6, вариант г)</text>
+<line x1="105" y1="515.00" x2="720" y2="515.00" stroke="#dce2e7"/>
+<text x="93" y="519.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-16</text>
+<line x1="105" y1="486.25" x2="720" y2="486.25" stroke="#dce2e7"/>
+<text x="93" y="490.25" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-15</text>
+<line x1="105" y1="457.50" x2="720" y2="457.50" stroke="#dce2e7"/>
+<text x="93" y="461.50" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-14</text>
+<line x1="105" y1="428.75" x2="720" y2="428.75" stroke="#dce2e7"/>
+<text x="93" y="432.75" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-13</text>
+<line x1="105" y1="400.00" x2="720" y2="400.00" stroke="#dce2e7"/>
+<text x="93" y="404.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-12</text>
+<line x1="105" y1="371.25" x2="720" y2="371.25" stroke="#dce2e7"/>
+<text x="93" y="375.25" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-11</text>
+<line x1="105" y1="342.50" x2="720" y2="342.50" stroke="#dce2e7"/>
+<text x="93" y="346.50" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-10</text>
+<line x1="105" y1="313.75" x2="720" y2="313.75" stroke="#dce2e7"/>
+<text x="93" y="317.75" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-9</text>
+<line x1="105" y1="285.00" x2="720" y2="285.00" stroke="#dce2e7"/>
+<text x="93" y="289.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-8</text>
+<line x1="105" y1="256.25" x2="720" y2="256.25" stroke="#dce2e7"/>
+<text x="93" y="260.25" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-7</text>
+<line x1="105" y1="227.50" x2="720" y2="227.50" stroke="#dce2e7"/>
+<text x="93" y="231.50" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-6</text>
+<line x1="105" y1="198.75" x2="720" y2="198.75" stroke="#dce2e7"/>
+<text x="93" y="202.75" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-5</text>
+<line x1="105" y1="170.00" x2="720" y2="170.00" stroke="#dce2e7"/>
+<text x="93" y="174.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-4</text>
+<line x1="105" y1="141.25" x2="720" y2="141.25" stroke="#dce2e7"/>
+<text x="93" y="145.25" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-3</text>
+<line x1="105" y1="112.50" x2="720" y2="112.50" stroke="#dce2e7"/>
+<text x="93" y="116.50" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-2</text>
+<line x1="105" y1="83.75" x2="720" y2="83.75" stroke="#dce2e7"/>
+<text x="93" y="87.75" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-1</text>
+<line x1="105" y1="55.00" x2="720" y2="55.00" stroke="#dce2e7"/>
+<text x="93" y="59.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^0</text>
+<line x1="105.00" y1="55" x2="105.00" y2="515" stroke="#edf0f2"/>
+<text x="105.00" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">0</text>
+<line x1="249.71" y1="55" x2="249.71" y2="515" stroke="#edf0f2"/>
+<text x="249.71" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">4</text>
+<line x1="394.41" y1="55" x2="394.41" y2="515" stroke="#edf0f2"/>
+<text x="394.41" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">8</text>
+<line x1="539.12" y1="55" x2="539.12" y2="515" stroke="#edf0f2"/>
+<text x="539.12" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">12</text>
+<line x1="720.00" y1="55" x2="720.00" y2="515" stroke="#edf0f2"/>
+<text x="720.00" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">17</text>
+<rect x="105" y="55" width="615" height="460" fill="none" stroke="#33495c"/>
+<text x="412.5" y="565" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Номер итерации k</text>
+<text x="25" y="285.0" transform="rotate(-90 25 285.0)" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Норма невязки ||F(xₖ)||₂</text>
+<path d="M105.00,75.82 L141.18,97.15 L177.35,114.23 L213.53,130.04 L249.71,146.63 L285.88,162.55 L322.06,179.18 L358.24,195.10 L394.41,211.72 L430.59,227.64 L466.76,244.26 L502.94,260.17 L539.12,276.79 L575.29,292.71 L611.47,309.33 L647.65,325.25 L683.82,341.87 L720.00,357.79" fill="none" stroke="#2364aa" stroke-width="2.4"/>
+<circle cx="105.00" cy="75.82" r="3" fill="#2364aa"/>
+<circle cx="141.18" cy="97.15" r="3" fill="#2364aa"/>
+<circle cx="177.35" cy="114.23" r="3" fill="#2364aa"/>
+<circle cx="213.53" cy="130.04" r="3" fill="#2364aa"/>
+<circle cx="249.71" cy="146.63" r="3" fill="#2364aa"/>
+<circle cx="285.88" cy="162.55" r="3" fill="#2364aa"/>
+<circle cx="322.06" cy="179.18" r="3" fill="#2364aa"/>
+<circle cx="358.24" cy="195.10" r="3" fill="#2364aa"/>
+<circle cx="394.41" cy="211.72" r="3" fill="#2364aa"/>
+<circle cx="430.59" cy="227.64" r="3" fill="#2364aa"/>
+<circle cx="466.76" cy="244.26" r="3" fill="#2364aa"/>
+<circle cx="502.94" cy="260.17" r="3" fill="#2364aa"/>
+<circle cx="539.12" cy="276.79" r="3" fill="#2364aa"/>
+<circle cx="575.29" cy="292.71" r="3" fill="#2364aa"/>
+<circle cx="611.47" cy="309.33" r="3" fill="#2364aa"/>
+<circle cx="647.65" cy="325.25" r="3" fill="#2364aa"/>
+<circle cx="683.82" cy="341.87" r="3" fill="#2364aa"/>
+<circle cx="720.00" cy="357.79" r="3" fill="#2364aa"/>
+<line x1="760" y1="100" x2="792" y2="100" stroke="#2364aa" stroke-width="3"/>
+<text x="805" y="105" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Простая итерация</text>
+<path d="M105.00,75.82 L141.18,103.84 L177.35,164.44 L213.53,283.42 L249.71,513.69" fill="none" stroke="#d1495b" stroke-width="2.4"/>
+<circle cx="105.00" cy="75.82" r="3" fill="#d1495b"/>
+<circle cx="141.18" cy="103.84" r="3" fill="#d1495b"/>
+<circle cx="177.35" cy="164.44" r="3" fill="#d1495b"/>
+<circle cx="213.53" cy="283.42" r="3" fill="#d1495b"/>
+<circle cx="249.71" cy="513.69" r="3" fill="#d1495b"/>
+<line x1="760" y1="142" x2="792" y2="142" stroke="#d1495b" stroke-width="3"/>
+<text x="805" y="147" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Ньютон</text>
+<path d="M105.00,75.82 L141.18,103.84 L177.35,130.98 L213.53,153.56 L249.71,179.11 L285.88,203.08 L322.06,227.82 L358.24,252.18 L394.41,276.73 L430.59,301.19 L466.76,325.69 L502.94,350.17" fill="none" stroke="#2a9d8f" stroke-width="2.4"/>
+<circle cx="105.00" cy="75.82" r="3" fill="#2a9d8f"/>
+<circle cx="141.18" cy="103.84" r="3" fill="#2a9d8f"/>
+<circle cx="177.35" cy="130.98" r="3" fill="#2a9d8f"/>
+<circle cx="213.53" cy="153.56" r="3" fill="#2a9d8f"/>
+<circle cx="249.71" cy="179.11" r="3" fill="#2a9d8f"/>
+<circle cx="285.88" cy="203.08" r="3" fill="#2a9d8f"/>
+<circle cx="322.06" cy="227.82" r="3" fill="#2a9d8f"/>
+<circle cx="358.24" cy="252.18" r="3" fill="#2a9d8f"/>
+<circle cx="394.41" cy="276.73" r="3" fill="#2a9d8f"/>
+<circle cx="430.59" cy="301.19" r="3" fill="#2a9d8f"/>
+<circle cx="466.76" cy="325.69" r="3" fill="#2a9d8f"/>
+<circle cx="502.94" cy="350.17" r="3" fill="#2a9d8f"/>
+<line x1="760" y1="184" x2="792" y2="184" stroke="#2a9d8f" stroke-width="3"/>
+<text x="805" y="189" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Модифицированный Ньютон</text>
+<path d="M105.00,75.82 L141.18,93.27 L177.35,116.91 L213.53,137.94 L249.71,157.80 L285.88,177.66 L322.06,197.50 L358.24,217.34 L394.41,237.18 L430.59,257.03 L466.76,276.87 L502.94,296.71 L539.12,316.56 L575.29,336.40 L611.47,356.24" fill="none" stroke="#8a5fbf" stroke-width="2.4"/>
+<circle cx="105.00" cy="75.82" r="3" fill="#8a5fbf"/>
+<circle cx="141.18" cy="93.27" r="3" fill="#8a5fbf"/>
+<circle cx="177.35" cy="116.91" r="3" fill="#8a5fbf"/>
+<circle cx="213.53" cy="137.94" r="3" fill="#8a5fbf"/>
+<circle cx="249.71" cy="157.80" r="3" fill="#8a5fbf"/>
+<circle cx="285.88" cy="177.66" r="3" fill="#8a5fbf"/>
+<circle cx="322.06" cy="197.50" r="3" fill="#8a5fbf"/>
+<circle cx="358.24" cy="217.34" r="3" fill="#8a5fbf"/>
+<circle cx="394.41" cy="237.18" r="3" fill="#8a5fbf"/>
+<circle cx="430.59" cy="257.03" r="3" fill="#8a5fbf"/>
+<circle cx="466.76" cy="276.87" r="3" fill="#8a5fbf"/>
+<circle cx="502.94" cy="296.71" r="3" fill="#8a5fbf"/>
+<circle cx="539.12" cy="316.56" r="3" fill="#8a5fbf"/>
+<circle cx="575.29" cy="336.40" r="3" fill="#8a5fbf"/>
+<circle cx="611.47" cy="356.24" r="3" fill="#8a5fbf"/>
+<line x1="760" y1="226" x2="792" y2="226" stroke="#8a5fbf" stroke-width="3"/>
+<text x="805" y="231" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Вариационный спуск</text>
+</svg>

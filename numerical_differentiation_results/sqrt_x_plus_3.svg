@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="760" viewBox="0 0 1250 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="625.00" y="34.00" font-family="DejaVu Sans, sans-serif" font-size="21px" font-weight="500" text-anchor="middle" fill="#202124">Абсолютная погрешность численного дифференцирования — f(x) = sqrt(x + 3)</text>
+<text x="625.00" y="58.00" font-family="DejaVu Sans, sans-serif" font-size="14px" font-weight="400" text-anchor="middle" fill="#202124">x₀ = 1; hₙ = 2 / 2ⁿ, n = 1,…,21</text>
+<line x1="133.97" y1="76" x2="133.97" y2="665" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="133.97" y="693.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="middle" fill="#202124">10^-7</text>
+<line x1="243.84" y1="76" x2="243.84" y2="665" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="243.84" y="693.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="middle" fill="#202124">10^-6</text>
+<line x1="353.70" y1="76" x2="353.70" y2="665" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="353.70" y="693.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="middle" fill="#202124">10^-5</text>
+<line x1="463.57" y1="76" x2="463.57" y2="665" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="463.57" y="693.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="middle" fill="#202124">10^-4</text>
+<line x1="573.43" y1="76" x2="573.43" y2="665" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="573.43" y="693.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="middle" fill="#202124">10^-3</text>
+<line x1="683.30" y1="76" x2="683.30" y2="665" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="683.30" y="693.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="middle" fill="#202124">10^-2</text>
+<line x1="793.16" y1="76" x2="793.16" y2="665" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="793.16" y="693.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="middle" fill="#202124">10^-1</text>
+<line x1="903.03" y1="76" x2="903.03" y2="665" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="903.03" y="693.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="middle" fill="#202124">1</text>
+<line x1="112" y1="648.64" x2="925" y2="648.64" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="653.64" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-18</text>
+<line x1="112" y1="615.92" x2="925" y2="615.92" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="620.92" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-17</text>
+<line x1="112" y1="583.19" x2="925" y2="583.19" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="588.19" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-16</text>
+<line x1="112" y1="550.47" x2="925" y2="550.47" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="555.47" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-15</text>
+<line x1="112" y1="517.75" x2="925" y2="517.75" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="522.75" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-14</text>
+<line x1="112" y1="485.03" x2="925" y2="485.03" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="490.03" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-13</text>
+<line x1="112" y1="452.31" x2="925" y2="452.31" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="457.31" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-12</text>
+<line x1="112" y1="419.58" x2="925" y2="419.58" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="424.58" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-11</text>
+<line x1="112" y1="386.86" x2="925" y2="386.86" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="391.86" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-10</text>
+<line x1="112" y1="354.14" x2="925" y2="354.14" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="359.14" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-9</text>
+<line x1="112" y1="321.42" x2="925" y2="321.42" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="326.42" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-8</text>
+<line x1="112" y1="288.69" x2="925" y2="288.69" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="293.69" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-7</text>
+<line x1="112" y1="255.97" x2="925" y2="255.97" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="260.97" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-6</text>
+<line x1="112" y1="223.25" x2="925" y2="223.25" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="228.25" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-5</text>
+<line x1="112" y1="190.53" x2="925" y2="190.53" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="195.53" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-4</text>
+<line x1="112" y1="157.81" x2="925" y2="157.81" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="162.81" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-3</text>
+<line x1="112" y1="125.08" x2="925" y2="125.08" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="130.08" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-2</text>
+<line x1="112" y1="92.36" x2="925" y2="92.36" stroke="#d9d9d9" stroke-dasharray="3,4"/>
+<text x="100.00" y="97.36" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="end" fill="#202124">10^-1</text>
+<rect x="112" y="76" width="813" height="589" fill="none" stroke="#202124" stroke-width="1.4"/>
+<text x="518.50" y="720.00" font-family="DejaVu Sans, sans-serif" font-size="16px" font-weight="400" text-anchor="middle" fill="#202124">Шаг численного дифференцирования h</text>
+<g transform="translate(25 370.50) rotate(-90)"><text x="0.00" y="0.00" font-family="DejaVu Sans, sans-serif" font-size="16px" font-weight="400" text-anchor="middle" fill="#202124">Абсолютная погрешность ε(h)</text></g>
+<path d="M 903.03,120.37 L 869.95,129.44 L 836.88,138.88 L 803.81,148.51 L 770.74,158.25 L 737.66,168.05 L 704.59,177.87 L 671.52,187.71 L 638.45,197.55 L 605.37,207.40 L 572.30,217.25 L 539.23,227.10 L 506.16,236.95 L 473.08,246.80 L 440.01,256.65 L 406.94,266.50 L 373.87,276.35 L 340.79,286.20 L 307.72,296.05 L 274.65,305.90 L 241.57,315.75" fill="none" stroke="#1f77b4" stroke-width="2.2"/>
+<circle cx="903.03" cy="120.37" r="4" fill="#1f77b4"/>
+<circle cx="869.95" cy="129.44" r="4" fill="#1f77b4"/>
+<circle cx="836.88" cy="138.88" r="4" fill="#1f77b4"/>
+<circle cx="803.81" cy="148.51" r="4" fill="#1f77b4"/>
+<circle cx="770.74" cy="158.25" r="4" fill="#1f77b4"/>
+<circle cx="737.66" cy="168.05" r="4" fill="#1f77b4"/>
+<circle cx="704.59" cy="177.87" r="4" fill="#1f77b4"/>
+<circle cx="671.52" cy="187.71" r="4" fill="#1f77b4"/>
+<circle cx="638.45" cy="197.55" r="4" fill="#1f77b4"/>
+<circle cx="605.37" cy="207.40" r="4" fill="#1f77b4"/>
+<circle cx="572.30" cy="217.25" r="4" fill="#1f77b4"/>
+<circle cx="539.23" cy="227.10" r="4" fill="#1f77b4"/>
+<circle cx="506.16" cy="236.95" r="4" fill="#1f77b4"/>
+<circle cx="473.08" cy="246.80" r="4" fill="#1f77b4"/>
+<circle cx="440.01" cy="256.65" r="4" fill="#1f77b4"/>
+<circle cx="406.94" cy="266.50" r="4" fill="#1f77b4"/>
+<circle cx="373.87" cy="276.35" r="4" fill="#1f77b4"/>
+<circle cx="340.79" cy="286.20" r="4" fill="#1f77b4"/>
+<circle cx="307.72" cy="296.05" r="4" fill="#1f77b4"/>
+<circle cx="274.65" cy="305.90" r="4" fill="#1f77b4"/>
+<circle cx="241.57" cy="315.75" r="4" fill="#1f77b4"/>
+<path d="M 903.03,116.77 L 869.95,127.66 L 836.88,137.99 L 803.81,148.07 L 770.74,158.03 L 737.66,167.94 L 704.59,177.82 L 671.52,187.68 L 638.45,197.54 L 605.37,207.39 L 572.30,217.24 L 539.23,227.09 L 506.16,236.95 L 473.08,246.80 L 440.01,256.65 L 406.94,266.50 L 373.87,276.35 L 340.79,286.20 L 307.72,296.05 L 274.65,305.90 L 241.57,315.75" fill="none" stroke="#d62728" stroke-width="2.2"/>
+<rect x="899.03" y="112.77" width="8" height="8" fill="#d62728"/>
+<rect x="865.95" y="123.66" width="8" height="8" fill="#d62728"/>
+<rect x="832.88" y="133.99" width="8" height="8" fill="#d62728"/>
+<rect x="799.81" y="144.07" width="8" height="8" fill="#d62728"/>
+<rect x="766.74" y="154.03" width="8" height="8" fill="#d62728"/>
+<rect x="733.66" y="163.94" width="8" height="8" fill="#d62728"/>
+<rect x="700.59" y="173.82" width="8" height="8" fill="#d62728"/>
+<rect x="667.52" y="183.68" width="8" height="8" fill="#d62728"/>
+<rect x="634.45" y="193.54" width="8" height="8" fill="#d62728"/>
+<rect x="601.37" y="203.39" width="8" height="8" fill="#d62728"/>
+<rect x="568.30" y="213.24" width="8" height="8" fill="#d62728"/>
+<rect x="535.23" y="223.09" width="8" height="8" fill="#d62728"/>
+<rect x="502.16" y="232.95" width="8" height="8" fill="#d62728"/>
+<rect x="469.08" y="242.80" width="8" height="8" fill="#d62728"/>
+<rect x="436.01" y="252.65" width="8" height="8" fill="#d62728"/>
+<rect x="402.94" y="262.50" width="8" height="8" fill="#d62728"/>
+<rect x="369.87" y="272.35" width="8" height="8" fill="#d62728"/>
+<rect x="336.79" y="282.20" width="8" height="8" fill="#d62728"/>
+<rect x="303.72" y="292.05" width="8" height="8" fill="#d62728"/>
+<rect x="270.65" y="301.90" width="8" height="8" fill="#d62728"/>
+<rect x="237.57" y="311.75" width="8" height="8" fill="#d62728"/>
+<path d="M 903.03,147.89 L 869.95,167.90 L 836.88,187.67 L 803.81,207.39 L 770.74,227.09 L 737.66,246.80 L 704.59,266.50 L 671.52,286.20 L 638.45,305.90 L 605.37,325.60 L 572.30,345.30 L 539.23,365.00 L 506.16,384.70 L 473.08,404.40 L 440.01,424.10 L 406.94,648.64 L 373.87,648.64 L 340.79,648.64 L 307.72,648.64 L 274.65,648.64 L 241.57,648.64" fill="none" stroke="#2ca02c" stroke-width="2.2"/>
+<path d="M903.03,142.89 L908.03,151.89 L898.03,151.89 Z" fill="#2ca02c"/>
+<path d="M869.95,162.90 L874.95,171.90 L864.95,171.90 Z" fill="#2ca02c"/>
+<path d="M836.88,182.67 L841.88,191.67 L831.88,191.67 Z" fill="#2ca02c"/>
+<path d="M803.81,202.39 L808.81,211.39 L798.81,211.39 Z" fill="#2ca02c"/>
+<path d="M770.74,222.09 L775.74,231.09 L765.74,231.09 Z" fill="#2ca02c"/>
+<path d="M737.66,241.80 L742.66,250.80 L732.66,250.80 Z" fill="#2ca02c"/>
+<path d="M704.59,261.50 L709.59,270.50 L699.59,270.50 Z" fill="#2ca02c"/>
+<path d="M671.52,281.20 L676.52,290.20 L666.52,290.20 Z" fill="#2ca02c"/>
+<path d="M638.45,300.90 L643.45,309.90 L633.45,309.90 Z" fill="#2ca02c"/>
+<path d="M605.37,320.60 L610.37,329.60 L600.37,329.60 Z" fill="#2ca02c"/>
+<path d="M572.30,340.30 L577.30,349.30 L567.30,349.30 Z" fill="#2ca02c"/>
+<path d="M539.23,360.00 L544.23,369.00 L534.23,369.00 Z" fill="#2ca02c"/>
+<path d="M506.16,379.70 L511.16,388.70 L501.16,388.70 Z" fill="#2ca02c"/>
+<path d="M473.08,399.40 L478.08,408.40 L468.08,408.40 Z" fill="#2ca02c"/>
+<path d="M440.01,419.10 L445.01,428.10 L435.01,428.10 Z" fill="#2ca02c"/>
+<path d="M406.94,643.64 L411.94,652.64 L401.94,652.64 Z" fill="#2ca02c"/>
+<path d="M373.87,643.64 L378.87,652.64 L368.87,652.64 Z" fill="#2ca02c"/>
+<path d="M340.79,643.64 L345.79,652.64 L335.79,652.64 Z" fill="#2ca02c"/>
+<path d="M307.72,643.64 L312.72,652.64 L302.72,652.64 Z" fill="#2ca02c"/>
+<path d="M274.65,643.64 L279.65,652.64 L269.65,652.64 Z" fill="#2ca02c"/>
+<path d="M241.57,643.64 L246.57,652.64 L236.57,652.64 Z" fill="#2ca02c"/>
+<path d="M 903.03,176.86 L 869.95,218.47 L 836.88,258.38 L 803.81,297.90 L 770.74,337.34 L 737.66,376.75 L 704.59,416.16 L 671.52,455.18 L 638.45,491.92 L 605.37,648.64 L 572.30,479.11 L 539.23,498.81 L 506.16,648.64 L 473.08,648.64 L 440.01,648.64 L 406.94,439.71 L 373.87,648.64 L 340.79,648.64 L 307.72,648.64 L 274.65,648.64 L 241.57,648.64" fill="none" stroke="#9467bd" stroke-width="2.2"/>
+<path d="M903.03,171.86 L908.03,176.86 L903.03,181.86 L898.03,176.86 Z" fill="#9467bd"/>
+<path d="M869.95,213.47 L874.95,218.47 L869.95,223.47 L864.95,218.47 Z" fill="#9467bd"/>
+<path d="M836.88,253.38 L841.88,258.38 L836.88,263.38 L831.88,258.38 Z" fill="#9467bd"/>
+<path d="M803.81,292.90 L808.81,297.90 L803.81,302.90 L798.81,297.90 Z" fill="#9467bd"/>
+<path d="M770.74,332.34 L775.74,337.34 L770.74,342.34 L765.74,337.34 Z" fill="#9467bd"/>
+<path d="M737.66,371.75 L742.66,376.75 L737.66,381.75 L732.66,376.75 Z" fill="#9467bd"/>
+<path d="M704.59,411.16 L709.59,416.16 L704.59,421.16 L699.59,416.16 Z" fill="#9467bd"/>
+<path d="M671.52,450.18 L676.52,455.18 L671.52,460.18 L666.52,455.18 Z" fill="#9467bd"/>
+<path d="M638.45,486.92 L643.45,491.92 L638.45,496.92 L633.45,491.92 Z" fill="#9467bd"/>
+<path d="M605.37,643.64 L610.37,648.64 L605.37,653.64 L600.37,648.64 Z" fill="#9467bd"/>
+<path d="M572.30,474.11 L577.30,479.11 L572.30,484.11 L567.30,479.11 Z" fill="#9467bd"/>
+<path d="M539.23,493.81 L544.23,498.81 L539.23,503.81 L534.23,498.81 Z" fill="#9467bd"/>
+<path d="M506.16,643.64 L511.16,648.64 L506.16,653.64 L501.16,648.64 Z" fill="#9467bd"/>
+<path d="M473.08,643.64 L478.08,648.64 L473.08,653.64 L468.08,648.64 Z" fill="#9467bd"/>
+<path d="M440.01,643.64 L445.01,648.64 L440.01,653.64 L435.01,648.64 Z" fill="#9467bd"/>
+<path d="M406.94,434.71 L411.94,439.71 L406.94,444.71 L401.94,439.71 Z" fill="#9467bd"/>
+<path d="M373.87,643.64 L378.87,648.64 L373.87,653.64 L368.87,648.64 Z" fill="#9467bd"/>
+<path d="M340.79,643.64 L345.79,648.64 L340.79,653.64 L335.79,648.64 Z" fill="#9467bd"/>
+<path d="M307.72,643.64 L312.72,648.64 L307.72,653.64 L302.72,648.64 Z" fill="#9467bd"/>
+<path d="M274.65,643.64 L279.65,648.64 L274.65,653.64 L269.65,648.64 Z" fill="#9467bd"/>
+<path d="M241.57,643.64 L246.57,648.64 L241.57,653.64 L236.57,648.64 Z" fill="#9467bd"/>
+<path d="M 903.03,184.71 L 869.95,252.32 L 836.88,313.10 L 803.81,372.61 L 770.74,431.82 L 737.66,491.27 L 704.59,514.22 L 671.52,504.68 L 638.45,518.53 L 605.37,521.64 L 572.30,477.13 L 539.23,490.46 L 506.16,648.64 L 473.08,648.64 L 440.01,648.64 L 406.94,437.73 L 373.87,472.44 L 340.79,648.64 L 307.72,648.64 L 274.65,648.64 L 241.57,648.64" fill="none" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M898.03,184.71 H908.03 M903.03,179.71 V189.71" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M864.95,252.32 H874.95 M869.95,247.32 V257.32" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M831.88,313.10 H841.88 M836.88,308.10 V318.10" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M798.81,372.61 H808.81 M803.81,367.61 V377.61" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M765.74,431.82 H775.74 M770.74,426.82 V436.82" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M732.66,491.27 H742.66 M737.66,486.27 V496.27" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M699.59,514.22 H709.59 M704.59,509.22 V519.22" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M666.52,504.68 H676.52 M671.52,499.68 V509.68" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M633.45,518.53 H643.45 M638.45,513.53 V523.53" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M600.37,521.64 H610.37 M605.37,516.64 V526.64" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M567.30,477.13 H577.30 M572.30,472.13 V482.13" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M534.23,490.46 H544.23 M539.23,485.46 V495.46" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M501.16,648.64 H511.16 M506.16,643.64 V653.64" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M468.08,648.64 H478.08 M473.08,643.64 V653.64" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M435.01,648.64 H445.01 M440.01,643.64 V653.64" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M401.94,437.73 H411.94 M406.94,432.73 V442.73" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M368.87,472.44 H378.87 M373.87,467.44 V477.44" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M335.79,648.64 H345.79 M340.79,643.64 V653.64" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M302.72,648.64 H312.72 M307.72,643.64 V653.64" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M269.65,648.64 H279.65 M274.65,643.64 V653.64" stroke="#ff7f0e" stroke-width="2.2"/>
+<path d="M236.57,648.64 H246.57 M241.57,643.64 V653.64" stroke="#ff7f0e" stroke-width="2.2"/>
+<text x="958.00" y="105.00" font-family="DejaVu Sans, sans-serif" font-size="16px" font-weight="500" text-anchor="start" fill="#202124">Методы</text>
+<line x1="958" y1="135" x2="986" y2="135" stroke="#1f77b4" stroke-width="2.2"/>
+<text x="998.00" y="140.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="start" fill="#202124">1. Прямая разность</text>
+<line x1="958" y1="177" x2="986" y2="177" stroke="#d62728" stroke-width="2.2"/>
+<text x="998.00" y="182.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="start" fill="#202124">2. Обратная разность</text>
+<line x1="958" y1="219" x2="986" y2="219" stroke="#2ca02c" stroke-width="2.2"/>
+<text x="998.00" y="224.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="start" fill="#202124">3. Центральная разность</text>
+<line x1="958" y1="261" x2="986" y2="261" stroke="#9467bd" stroke-width="2.2"/>
+<text x="998.00" y="266.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="start" fill="#202124">4. Симметричная 4-го порядка</text>
+<line x1="958" y1="303" x2="986" y2="303" stroke="#ff7f0e" stroke-width="2.2"/>
+<text x="998.00" y="308.00" font-family="DejaVu Sans, sans-serif" font-size="13px" font-weight="400" text-anchor="start" fill="#202124">5. Симметричная 6-го порядка</text>
+</svg>

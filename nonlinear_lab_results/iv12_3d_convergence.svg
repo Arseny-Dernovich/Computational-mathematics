@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="620" viewBox="0 0 1050 620">
+<rect width="100%" height="100%" fill="white"/>
+<text x="525.0" y="30" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="20" fill="#19324a">Сходимость методов: IV.12.3, вариант д)</text>
+<line x1="105" y1="515.00" x2="720" y2="515.00" stroke="#dce2e7"/>
+<text x="93" y="519.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-12</text>
+<line x1="105" y1="476.67" x2="720" y2="476.67" stroke="#dce2e7"/>
+<text x="93" y="480.67" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-11</text>
+<line x1="105" y1="438.33" x2="720" y2="438.33" stroke="#dce2e7"/>
+<text x="93" y="442.33" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-10</text>
+<line x1="105" y1="400.00" x2="720" y2="400.00" stroke="#dce2e7"/>
+<text x="93" y="404.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-9</text>
+<line x1="105" y1="361.67" x2="720" y2="361.67" stroke="#dce2e7"/>
+<text x="93" y="365.67" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-8</text>
+<line x1="105" y1="323.33" x2="720" y2="323.33" stroke="#dce2e7"/>
+<text x="93" y="327.33" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-7</text>
+<line x1="105" y1="285.00" x2="720" y2="285.00" stroke="#dce2e7"/>
+<text x="93" y="289.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-6</text>
+<line x1="105" y1="246.67" x2="720" y2="246.67" stroke="#dce2e7"/>
+<text x="93" y="250.67" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-5</text>
+<line x1="105" y1="208.33" x2="720" y2="208.33" stroke="#dce2e7"/>
+<text x="93" y="212.33" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-4</text>
+<line x1="105" y1="170.00" x2="720" y2="170.00" stroke="#dce2e7"/>
+<text x="93" y="174.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-3</text>
+<line x1="105" y1="131.67" x2="720" y2="131.67" stroke="#dce2e7"/>
+<text x="93" y="135.67" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-2</text>
+<line x1="105" y1="93.33" x2="720" y2="93.33" stroke="#dce2e7"/>
+<text x="93" y="97.33" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^-1</text>
+<line x1="105" y1="55.00" x2="720" y2="55.00" stroke="#dce2e7"/>
+<text x="93" y="59.00" text-anchor="end" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">10^0</text>
+<line x1="105.00" y1="55" x2="105.00" y2="515" stroke="#edf0f2"/>
+<text x="105.00" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">0</text>
+<line x1="255.48" y1="55" x2="255.48" y2="515" stroke="#edf0f2"/>
+<text x="255.48" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">23</text>
+<line x1="412.50" y1="55" x2="412.50" y2="515" stroke="#edf0f2"/>
+<text x="412.50" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">47</text>
+<line x1="562.98" y1="55" x2="562.98" y2="515" stroke="#edf0f2"/>
+<text x="562.98" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">70</text>
+<line x1="720.00" y1="55" x2="720.00" y2="515" stroke="#edf0f2"/>
+<text x="720.00" y="537" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#465563">94</text>
+<rect x="105" y="55" width="615" height="460" fill="none" stroke="#33495c"/>
+<text x="412.5" y="565" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Номер итерации k</text>
+<text x="25" y="285.0" transform="rotate(-90 25 285.0)" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Норма невязки ||F(xₖ)||₂</text>
+<path d="M105.00,65.37 L111.54,87.32 L118.09,82.53 L124.63,118.01 L131.17,101.64 L137.71,120.92 L144.26,160.20 L150.80,134.10 L157.34,149.53 L163.88,173.52 L170.43,181.66 L176.97,200.88 L183.51,199.51 L190.05,253.26 L196.60,213.15 L203.14,226.26 L209.68,241.46 L216.22,264.29 L222.77,276.87 L229.31,286.38 L235.85,302.28 L242.39,306.00 L248.94,340.55 L255.48,319.78 L262.02,336.95 L268.56,375.72 L275.11,354.24 L281.65,371.14 L288.19,406.38 L294.73,390.14 L301.28,409.55 L307.82,447.06" fill="none" stroke="#2364aa" stroke-width="2.4"/>
+<circle cx="105.00" cy="65.37" r="3" fill="#2364aa"/>
+<circle cx="111.54" cy="87.32" r="3" fill="#2364aa"/>
+<circle cx="118.09" cy="82.53" r="3" fill="#2364aa"/>
+<circle cx="124.63" cy="118.01" r="3" fill="#2364aa"/>
+<circle cx="131.17" cy="101.64" r="3" fill="#2364aa"/>
+<circle cx="137.71" cy="120.92" r="3" fill="#2364aa"/>
+<circle cx="144.26" cy="160.20" r="3" fill="#2364aa"/>
+<circle cx="150.80" cy="134.10" r="3" fill="#2364aa"/>
+<circle cx="157.34" cy="149.53" r="3" fill="#2364aa"/>
+<circle cx="163.88" cy="173.52" r="3" fill="#2364aa"/>
+<circle cx="170.43" cy="181.66" r="3" fill="#2364aa"/>
+<circle cx="176.97" cy="200.88" r="3" fill="#2364aa"/>
+<circle cx="183.51" cy="199.51" r="3" fill="#2364aa"/>
+<circle cx="190.05" cy="253.26" r="3" fill="#2364aa"/>
+<circle cx="196.60" cy="213.15" r="3" fill="#2364aa"/>
+<circle cx="203.14" cy="226.26" r="3" fill="#2364aa"/>
+<circle cx="209.68" cy="241.46" r="3" fill="#2364aa"/>
+<circle cx="216.22" cy="264.29" r="3" fill="#2364aa"/>
+<circle cx="222.77" cy="276.87" r="3" fill="#2364aa"/>
+<circle cx="229.31" cy="286.38" r="3" fill="#2364aa"/>
+<circle cx="235.85" cy="302.28" r="3" fill="#2364aa"/>
+<circle cx="242.39" cy="306.00" r="3" fill="#2364aa"/>
+<circle cx="248.94" cy="340.55" r="3" fill="#2364aa"/>
+<circle cx="255.48" cy="319.78" r="3" fill="#2364aa"/>
+<circle cx="262.02" cy="336.95" r="3" fill="#2364aa"/>
+<circle cx="268.56" cy="375.72" r="3" fill="#2364aa"/>
+<circle cx="275.11" cy="354.24" r="3" fill="#2364aa"/>
+<circle cx="281.65" cy="371.14" r="3" fill="#2364aa"/>
+<circle cx="288.19" cy="406.38" r="3" fill="#2364aa"/>
+<circle cx="294.73" cy="390.14" r="3" fill="#2364aa"/>
+<circle cx="301.28" cy="409.55" r="3" fill="#2364aa"/>
+<circle cx="307.82" cy="447.06" r="3" fill="#2364aa"/>
+<line x1="760" y1="100" x2="792" y2="100" stroke="#2364aa" stroke-width="3"/>
+<text x="805" y="105" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Деление пополам</text>
+<path d="M105.00,65.37 L111.54,82.53 L118.09,101.02 L124.63,119.02 L131.17,137.17 L137.71,155.27 L144.26,173.40 L150.80,191.51 L157.34,209.63 L163.88,227.74 L170.43,245.86 L176.97,263.97 L183.51,282.09 L190.05,300.20 L196.60,318.32 L203.14,336.43 L209.68,354.55 L216.22,372.67 L222.77,390.78 L229.31,408.90 L235.85,427.01 L242.39,445.13" fill="none" stroke="#d1495b" stroke-width="2.4"/>
+<circle cx="105.00" cy="65.37" r="3" fill="#d1495b"/>
+<circle cx="111.54" cy="82.53" r="3" fill="#d1495b"/>
+<circle cx="118.09" cy="101.02" r="3" fill="#d1495b"/>
+<circle cx="124.63" cy="119.02" r="3" fill="#d1495b"/>
+<circle cx="131.17" cy="137.17" r="3" fill="#d1495b"/>
+<circle cx="137.71" cy="155.27" r="3" fill="#d1495b"/>
+<circle cx="144.26" cy="173.40" r="3" fill="#d1495b"/>
+<circle cx="150.80" cy="191.51" r="3" fill="#d1495b"/>
+<circle cx="157.34" cy="209.63" r="3" fill="#d1495b"/>
+<circle cx="163.88" cy="227.74" r="3" fill="#d1495b"/>
+<circle cx="170.43" cy="245.86" r="3" fill="#d1495b"/>
+<circle cx="176.97" cy="263.97" r="3" fill="#d1495b"/>
+<circle cx="183.51" cy="282.09" r="3" fill="#d1495b"/>
+<circle cx="190.05" cy="300.20" r="3" fill="#d1495b"/>
+<circle cx="196.60" cy="318.32" r="3" fill="#d1495b"/>
+<circle cx="203.14" cy="336.43" r="3" fill="#d1495b"/>
+<circle cx="209.68" cy="354.55" r="3" fill="#d1495b"/>
+<circle cx="216.22" cy="372.67" r="3" fill="#d1495b"/>
+<circle cx="222.77" cy="390.78" r="3" fill="#d1495b"/>
+<circle cx="229.31" cy="408.90" r="3" fill="#d1495b"/>
+<circle cx="235.85" cy="427.01" r="3" fill="#d1495b"/>
+<circle cx="242.39" cy="445.13" r="3" fill="#d1495b"/>
+<line x1="760" y1="142" x2="792" y2="142" stroke="#d1495b" stroke-width="3"/>
+<text x="805" y="147" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Простая итерация</text>
+<path d="M105.00,65.37 L111.54,128.83 L118.09,254.61 L124.63,506.15" fill="none" stroke="#2a9d8f" stroke-width="2.4"/>
+<circle cx="105.00" cy="65.37" r="3" fill="#2a9d8f"/>
+<circle cx="111.54" cy="128.83" r="3" fill="#2a9d8f"/>
+<circle cx="118.09" cy="254.61" r="3" fill="#2a9d8f"/>
+<circle cx="124.63" cy="506.15" r="3" fill="#2a9d8f"/>
+<line x1="760" y1="184" x2="792" y2="184" stroke="#2a9d8f" stroke-width="3"/>
+<text x="805" y="189" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Ньютон</text>
+<path d="M105.00,65.37 L111.54,128.83 L118.09,180.61 L124.63,232.20 L131.17,283.79 L137.71,335.37 L144.26,386.95 L150.80,438.54" fill="none" stroke="#8a5fbf" stroke-width="2.4"/>
+<circle cx="105.00" cy="65.37" r="3" fill="#8a5fbf"/>
+<circle cx="111.54" cy="128.83" r="3" fill="#8a5fbf"/>
+<circle cx="118.09" cy="180.61" r="3" fill="#8a5fbf"/>
+<circle cx="124.63" cy="232.20" r="3" fill="#8a5fbf"/>
+<circle cx="131.17" cy="283.79" r="3" fill="#8a5fbf"/>
+<circle cx="137.71" cy="335.37" r="3" fill="#8a5fbf"/>
+<circle cx="144.26" cy="386.95" r="3" fill="#8a5fbf"/>
+<circle cx="150.80" cy="438.54" r="3" fill="#8a5fbf"/>
+<line x1="760" y1="226" x2="792" y2="226" stroke="#8a5fbf" stroke-width="3"/>
+<text x="805" y="231" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Модифицированный Ньютон</text>
+<path d="M105.00,65.37 L111.54,67.57 L118.09,73.40 L124.63,76.24 L131.17,81.29 L137.71,84.54 L144.26,89.17 L150.80,92.69 L157.34,97.07 L163.88,100.76 L170.43,104.98 L176.97,108.79 L183.51,112.92 L190.05,116.79 L196.60,120.86 L203.14,124.78 L209.68,128.82 L216.22,132.76 L222.77,136.78 L229.31,140.74 L235.85,144.74 L242.39,148.71 L248.94,152.71 L255.48,156.68 L262.02,160.68 L268.56,164.66 L275.11,168.65 L281.65,172.63 L288.19,176.61 L294.73,180.60 L301.28,184.58 L307.82,188.57 L314.36,192.55 L320.90,196.54 L327.45,200.52 L333.99,204.51 L340.53,208.49 L347.07,212.48 L353.62,216.46 L360.16,220.45 L366.70,224.43 L373.24,228.42 L379.79,232.40 L386.33,236.39 L392.87,240.37 L399.41,244.36 L405.96,248.34 L412.50,252.33 L419.04,256.31 L425.59,260.29 L432.13,264.28 L438.67,268.26 L445.21,272.25 L451.76,276.23 L458.30,280.22 L464.84,284.20 L471.38,288.19 L477.93,292.17 L484.47,296.16 L491.01,300.14 L497.55,304.13 L504.10,308.11 L510.64,312.10 L517.18,316.08 L523.72,320.07 L530.27,324.05 L536.81,328.04 L543.35,332.02 L549.89,336.01 L556.44,339.99 L562.98,343.98 L569.52,347.96 L576.06,351.95 L582.61,355.93 L589.15,359.91 L595.69,363.90 L602.23,367.88 L608.78,371.87 L615.32,375.85 L621.86,379.84 L628.40,383.82 L634.95,387.81 L641.49,391.79 L648.03,395.78 L654.57,399.76 L661.12,403.75 L667.66,407.73 L674.20,411.72 L680.74,415.70 L687.29,419.69 L693.83,423.67 L700.37,427.66 L706.91,431.64 L713.46,435.63 L720.00,439.61" fill="none" stroke="#ed8b00" stroke-width="2.4"/>
+<circle cx="105.00" cy="65.37" r="3" fill="#ed8b00"/>
+<circle cx="111.54" cy="67.57" r="3" fill="#ed8b00"/>
+<circle cx="118.09" cy="73.40" r="3" fill="#ed8b00"/>
+<circle cx="124.63" cy="76.24" r="3" fill="#ed8b00"/>
+<circle cx="131.17" cy="81.29" r="3" fill="#ed8b00"/>
+<circle cx="137.71" cy="84.54" r="3" fill="#ed8b00"/>
+<circle cx="144.26" cy="89.17" r="3" fill="#ed8b00"/>
+<circle cx="150.80" cy="92.69" r="3" fill="#ed8b00"/>
+<circle cx="157.34" cy="97.07" r="3" fill="#ed8b00"/>
+<circle cx="163.88" cy="100.76" r="3" fill="#ed8b00"/>
+<circle cx="170.43" cy="104.98" r="3" fill="#ed8b00"/>
+<circle cx="176.97" cy="108.79" r="3" fill="#ed8b00"/>
+<circle cx="183.51" cy="112.92" r="3" fill="#ed8b00"/>
+<circle cx="190.05" cy="116.79" r="3" fill="#ed8b00"/>
+<circle cx="196.60" cy="120.86" r="3" fill="#ed8b00"/>
+<circle cx="203.14" cy="124.78" r="3" fill="#ed8b00"/>
+<circle cx="209.68" cy="128.82" r="3" fill="#ed8b00"/>
+<circle cx="216.22" cy="132.76" r="3" fill="#ed8b00"/>
+<circle cx="222.77" cy="136.78" r="3" fill="#ed8b00"/>
+<circle cx="229.31" cy="140.74" r="3" fill="#ed8b00"/>
+<circle cx="235.85" cy="144.74" r="3" fill="#ed8b00"/>
+<circle cx="242.39" cy="148.71" r="3" fill="#ed8b00"/>
+<circle cx="248.94" cy="152.71" r="3" fill="#ed8b00"/>
+<circle cx="255.48" cy="156.68" r="3" fill="#ed8b00"/>
+<circle cx="262.02" cy="160.68" r="3" fill="#ed8b00"/>
+<circle cx="268.56" cy="164.66" r="3" fill="#ed8b00"/>
+<circle cx="275.11" cy="168.65" r="3" fill="#ed8b00"/>
+<circle cx="281.65" cy="172.63" r="3" fill="#ed8b00"/>
+<circle cx="288.19" cy="176.61" r="3" fill="#ed8b00"/>
+<circle cx="294.73" cy="180.60" r="3" fill="#ed8b00"/>
+<circle cx="301.28" cy="184.58" r="3" fill="#ed8b00"/>
+<circle cx="307.82" cy="188.57" r="3" fill="#ed8b00"/>
+<circle cx="314.36" cy="192.55" r="3" fill="#ed8b00"/>
+<circle cx="320.90" cy="196.54" r="3" fill="#ed8b00"/>
+<circle cx="327.45" cy="200.52" r="3" fill="#ed8b00"/>
+<circle cx="333.99" cy="204.51" r="3" fill="#ed8b00"/>
+<circle cx="340.53" cy="208.49" r="3" fill="#ed8b00"/>
+<circle cx="347.07" cy="212.48" r="3" fill="#ed8b00"/>
+<circle cx="353.62" cy="216.46" r="3" fill="#ed8b00"/>
+<circle cx="360.16" cy="220.45" r="3" fill="#ed8b00"/>
+<circle cx="366.70" cy="224.43" r="3" fill="#ed8b00"/>
+<circle cx="373.24" cy="228.42" r="3" fill="#ed8b00"/>
+<circle cx="379.79" cy="232.40" r="3" fill="#ed8b00"/>
+<circle cx="386.33" cy="236.39" r="3" fill="#ed8b00"/>
+<circle cx="392.87" cy="240.37" r="3" fill="#ed8b00"/>
+<circle cx="399.41" cy="244.36" r="3" fill="#ed8b00"/>
+<circle cx="405.96" cy="248.34" r="3" fill="#ed8b00"/>
+<circle cx="412.50" cy="252.33" r="3" fill="#ed8b00"/>
+<circle cx="419.04" cy="256.31" r="3" fill="#ed8b00"/>
+<circle cx="425.59" cy="260.29" r="3" fill="#ed8b00"/>
+<circle cx="432.13" cy="264.28" r="3" fill="#ed8b00"/>
+<circle cx="438.67" cy="268.26" r="3" fill="#ed8b00"/>
+<circle cx="445.21" cy="272.25" r="3" fill="#ed8b00"/>
+<circle cx="451.76" cy="276.23" r="3" fill="#ed8b00"/>
+<circle cx="458.30" cy="280.22" r="3" fill="#ed8b00"/>
+<circle cx="464.84" cy="284.20" r="3" fill="#ed8b00"/>
+<circle cx="471.38" cy="288.19" r="3" fill="#ed8b00"/>
+<circle cx="477.93" cy="292.17" r="3" fill="#ed8b00"/>
+<circle cx="484.47" cy="296.16" r="3" fill="#ed8b00"/>
+<circle cx="491.01" cy="300.14" r="3" fill="#ed8b00"/>
+<circle cx="497.55" cy="304.13" r="3" fill="#ed8b00"/>
+<circle cx="504.10" cy="308.11" r="3" fill="#ed8b00"/>
+<circle cx="510.64" cy="312.10" r="3" fill="#ed8b00"/>
+<circle cx="517.18" cy="316.08" r="3" fill="#ed8b00"/>
+<circle cx="523.72" cy="320.07" r="3" fill="#ed8b00"/>
+<circle cx="530.27" cy="324.05" r="3" fill="#ed8b00"/>
+<circle cx="536.81" cy="328.04" r="3" fill="#ed8b00"/>
+<circle cx="543.35" cy="332.02" r="3" fill="#ed8b00"/>
+<circle cx="549.89" cy="336.01" r="3" fill="#ed8b00"/>
+<circle cx="556.44" cy="339.99" r="3" fill="#ed8b00"/>
+<circle cx="562.98" cy="343.98" r="3" fill="#ed8b00"/>
+<circle cx="569.52" cy="347.96" r="3" fill="#ed8b00"/>
+<circle cx="576.06" cy="351.95" r="3" fill="#ed8b00"/>
+<circle cx="582.61" cy="355.93" r="3" fill="#ed8b00"/>
+<circle cx="589.15" cy="359.91" r="3" fill="#ed8b00"/>
+<circle cx="595.69" cy="363.90" r="3" fill="#ed8b00"/>
+<circle cx="602.23" cy="367.88" r="3" fill="#ed8b00"/>
+<circle cx="608.78" cy="371.87" r="3" fill="#ed8b00"/>
+<circle cx="615.32" cy="375.85" r="3" fill="#ed8b00"/>
+<circle cx="621.86" cy="379.84" r="3" fill="#ed8b00"/>
+<circle cx="628.40" cy="383.82" r="3" fill="#ed8b00"/>
+<circle cx="634.95" cy="387.81" r="3" fill="#ed8b00"/>
+<circle cx="641.49" cy="391.79" r="3" fill="#ed8b00"/>
+<circle cx="648.03" cy="395.78" r="3" fill="#ed8b00"/>
+<circle cx="654.57" cy="399.76" r="3" fill="#ed8b00"/>
+<circle cx="661.12" cy="403.75" r="3" fill="#ed8b00"/>
+<circle cx="667.66" cy="407.73" r="3" fill="#ed8b00"/>
+<circle cx="674.20" cy="411.72" r="3" fill="#ed8b00"/>
+<circle cx="680.74" cy="415.70" r="3" fill="#ed8b00"/>
+<circle cx="687.29" cy="419.69" r="3" fill="#ed8b00"/>
+<circle cx="693.83" cy="423.67" r="3" fill="#ed8b00"/>
+<circle cx="700.37" cy="427.66" r="3" fill="#ed8b00"/>
+<circle cx="706.91" cy="431.64" r="3" fill="#ed8b00"/>
+<circle cx="713.46" cy="435.63" r="3" fill="#ed8b00"/>
+<circle cx="720.00" cy="439.61" r="3" fill="#ed8b00"/>
+<line x1="760" y1="268" x2="792" y2="268" stroke="#ed8b00" stroke-width="3"/>
+<text x="805" y="273" font-family="DejaVu Sans,sans-serif" font-size="14" fill="#243746">Вариационный спуск</text>
+</svg>
